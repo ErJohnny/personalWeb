@@ -1,0 +1,14 @@
+{
+  "name": "blogpersonal",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joan Mateu Hernández",
+  "license": "ISC",
+  "description": "My personal web",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
