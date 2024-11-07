@@ -1,14 +1,12 @@
 {
-  "name": "blogpersonal",
+  "name": "repolocalwithparcel",
   "version": "1.0.0",
+  "description": "My personal website",
   "scripts": {
-    "build": "parcel build ./src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Joan Mateu Hernández",
+  "author": "Joan Mateu",
   "license": "ISC",
-  "description": "My personal web",
   "devDependencies": {
     "parcel": "^2.12.0"
   }
