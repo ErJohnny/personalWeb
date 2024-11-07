@@ -1,36 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Web</title>
     <link rel="stylesheet" href="/src/css/style.css">
+    <link rel="icon" href="./img/logo.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/8a389c0d8b.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#portfolio">Portfolio</a>
+        <div class="contentHeader">
+            <a href="#home"><i class="fa-solid fa-house"></i> Home</a>
+        </div>
+        <div class="contentHeader">
+            <a href="#about"><i class="fa-solid fa-address-card"></i> About</a>
+        </div>
+        <div class="contentHeader">
+            <a href="#portfolio"><i class="fa-solid fa-briefcase"></i> Portfolio</a>
+        </div>
     </header>
 
     <main>
         <section id="home" class="tabpanel">
-            <h1>Home</h1>
-            <h2>Bienvenido a mi pagina web personal!</h2>
-            <p>Soy Joan Mateu, y esta es mi primera pagina web personal, como podras ver arriba tienes dos tabs, uno es el Home, el otro es About y el otro es Portfolio, el home como podras ver no tiene gran cosa solo este texto para que sepas que podras descubrir sobre mi, en el About tienes informacion sobre mi, mis ideas, mi historia y que quiero hacer en un futuro o cuales son mis planes, en el Portfolio tienes algunos proyectos que he realizado, de momento no son muchos pero estoy seguro de que iran en aumento, tambien tienes mi perfil de github por si te interesa y mi contacto en gmail para que puedas contactar conmigo.</p>
+            <h2 class="title">Bienvenido a mi pagina web personal!</h2>
         </section>
         <section id="about" class="tabpanel">
-            <h1>About</h1>
+            <p class="aboutme">
+                Hola, mi nombre es Joan, soy un chico de Mallorca, 
+                mi vida hasta día de hoy considero que ha sido normal, nada fuera de lo común, 
+                hoy en día me encuentro estudiando el grado superior de desarrollo de aplicaciones web, 
+                el cual me faltan 2 años para acabar, una vez lo acabe me gustaría trabajar para una empresa y ganar mucha experiencia, 
+                cuando considere que tengo una buena base con amplios conocimientos, me gustaría emprender mis propios proyectos e intentar hacer cosas grandes, 
+                que dejen marca, aparte de la programación también estoy interesado en la ciberseguridad, ya que considero que es una de las ramas más importantes hoy en día y con la que puedes hacer muchas cosas interesantes, 
+                como ya he dicho estoy estudiando, aunque también me gustaría encontrar un trabajo donde ya me empiecen a dar caña con la programación y así ganar más experiencia más rápido.
+            </p>
+            <div class="exp">
+                <details>
+                    <summary>Currículum</summary>
+                    <div class="curriculum">
+                        <h2>Datos Personales</h2>
+                        <p>Nombre: Joan Mateu</p>
+                        <p>Email: joanmaateu@gmail.com</p>
+                        <p>Teléfono: +34 628269091</p>
+            
+                        <h2>Experiencia Profesional</h2>
+                        <p>Calvia 2000 (1 año)</p>
+                        <p>Beep (3 meses)</p>
+    
+                        <h2>Educación</h2>
+                        <p>ESO - IES Sant Marçal</p>
+                        <p>CFGM - Sistemas Microinformáticos y redes</p>
+                        <p>CFGS - Desarrollo de Aplicaciones Web (Estudiando)</p>
+                    </div>
+                </details>
+            </div>
         </section>
         <section id="portfolio" class="tabpanel">
-            <h1>Portfolio</h1>
+            <div class="practicaPortfolio">
+                <h2>Memory Game</h2>
+                <div class="btnVER">
+                    <a href="https://lenguaje-de-marcas-23-joanmaateu.netlify.app/pmemorygame" target="_blank">VER</a>
+                </div>
+            </div>
         </section>
     </main>
 
     <footer>
-        <p>Contacto: <a href="mailto:joanmaateu@gmail.com">joanmaateu@gmail.com</a></p>
-        <p>© 2024 Joan Mateu</p>
-        <p>Proyectos: <a href="https://github.com/ErJohnny">GitHub</a></p>
+        <div class="contentFoot">
+            <a href="https://github.com/ErJohnny">GitHub</a>
+        </div>
+        <div class="contentFoot">
+            <a href="https://www.linkedin.com/in/joan-mateu-8ab268216/">LinkedIn</a>
+        </div>
+        <div class="contentFoot">
+            <a href="mailto:joanmaateu@gmail.com">joanmaateu@gmail.com</a>
+        </div>
     </footer>
 </body>
 </html>
