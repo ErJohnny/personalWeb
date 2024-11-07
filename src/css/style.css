@@ -126,21 +126,22 @@ summary {
     display: flex;
     flex-direction: column;
     align-items: start;
+    justify-content: center;
     text-align: left;
-    width: auto;
-    margin-left: 27vw;
-    margin-right: 27vw;
+    width: 50%;
+    border-radius: 15px;
+    margin-left: 25%;
 }
 
 .curriculum h2 {
     margin-bottom: 15px;
     margin-top: 15px;
-    padding-left: 3px;
+    padding-left: 10px;
 }
 
 .curriculum p {
     margin-bottom: 5px;
-    padding-left: 3px;
+    padding-left: 10px;
 }
 
 .practicaPortfolio {
@@ -182,5 +183,12 @@ summary {
 
     .contentFoot {
         width: 100%;
+    }
+
+    .curriculum {
+        width: 100%;
+        justify-content: center;
+        margin-left: 0%;
+        margin-right: 0%;
     }
 }

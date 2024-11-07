@@ -1426,7 +1426,7 @@
 90/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/node-addon-api/common.gypi1730133066996755258 0
 74/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/json5/dist1730133067087764327 1
 93/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/profiler/package.json1730133067057761337 0
-55/home/joan/Documents/daw/diw/projects/blogPersonal/dist1730994809456650158 1
+55/home/joan/Documents/daw/diw/projects/blogPersonal/dist1731007230950134515 1
 114/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/runtime-js/src/helpers/node/html-loader.js1730133067101765723 0
 105/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/packager-html/lib/HTMLPackager.js1730133066988754464 0
 101/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/dist/unpacker/feature.js1730133067287784263 0
@@ -1740,7 +1740,7 @@
 110/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/src/_interop_require_wildcard.mjs1730133067343789845 0
 131/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/css-select/node_modules/entities/lib/generated/decode-data-xml.d.ts1730133067169772501 0
 101/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/esm/_array_with_holes.js1730133067307786257 0
-73/home/joan/Documents/daw/diw/projects/blogPersonal/dist/logo.726d37a8.png1730991089469877706 0
+73/home/joan/Documents/daw/diw/projects/blogPersonal/dist/logo.726d37a8.png1731005347784377068 0
 109/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/cosmiconfig/dist/canUseDynamicImport.d.ts.map1730133067062761835 0
 114/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/css-select/node_modules/entities/lib/esm/generated1730133067171772700 1
 113/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/requestidlecallback.js1730133067358791341 0
@@ -1879,7 +1879,7 @@
 101/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/src/_to_property_key.mjs1730133067347790244 0
 93/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/type-fest/source/mutable.d.ts1730133067086764227 0
 121/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/cjs/_class_static_private_field_spec_get.cjs1730133067290784562 0
-80/home/joan/Documents/daw/diw/projects/blogPersonal/dist/blogPersonal.59712999.js1730994809452650234 0
+80/home/joan/Documents/daw/diw/projects/blogPersonal/dist/blogPersonal.59712999.js1731005347800376994 0
 114/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/css-at-counter-style.js1730133067220777585 0
 104/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/esm/_non_iterable_spread.js1730133067320787552 0
 127/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/index.js1730133067048760440 0
@@ -2313,7 +2313,7 @@
 84/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/msgpackr/unpack.d.ts1730133067206776189 0
 114/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/css-select/node_modules/entities/lib/esm/decode.js1730133067068762433 0
 93/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/workers/src/Worker.js1730133067134769012 0
-74/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.c92073ef.css1730993426687286132 0
+74/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.c92073ef.css1731007230949133690 0
 74/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/.bin/json51730133068137869041 0
 105/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/src/_to_consumable_array.mjs1730133067346790144 0
 105/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/css-tree/cjs/syntax/node/MediaFeature.cjs1730133067190774594 0
@@ -2355,7 +2355,7 @@
 95/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/cosmiconfig/dist/index.d.ts.map1730133067100765623 0
 96/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/msgpackr/dist/unpack-no-eval.cjs1730133067057761337 0
 88/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/entities/lib/encode.d.ts1730133067106766221 0
-78/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.c92073ef.css.map1730993426688286372 0
+78/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.c92073ef.css.map1731007230950134515 0
 102/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/cosmiconfig/dist/getDirectory.d.ts.map1730133067093764925 0
 97/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/weak-lru-cache/tests/benchmark.js1730133066995755159 0
 87/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/nullthrows/package.json1730133066970752676 0
@@ -2585,7 +2585,7 @@
 101/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/css-all.js1730133067218777385 0
 77/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/lmdb/level.js1730133067243779877 0
 103/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/svgo/plugins/cleanupEnableBackground.js1730133067182773797 0
-66/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.html1730993645866675651 0
+66/home/joan/Documents/daw/diw/projects/blogPersonal/dist/index.html1731005780736055015 0
 99/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/fetch.js1730133067288784363 0
 98/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/_/_using/package.json1730133067273782868 0
 99/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/_/_to_consumable_array1730133067257781273 1
@@ -2945,7 +2945,7 @@
 86/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/json5/lib/unicode.d.ts1730133067108766420 0
 108/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/css-first-line.js1730133067235779080 0
 101/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/_/_ts_param/package.json1730133067265782070 0
-84/home/joan/Documents/daw/diw/projects/blogPersonal/dist/blogPersonal.59712999.js.map1730994809456650158 0
+84/home/joan/Documents/daw/diw/projects/blogPersonal/dist/blogPersonal.59712999.js.map1731005347801376990 0
 100/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@swc/helpers/_/_wrap_async_generator1730133067274782967 1
 84/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/micromatch/README.md1730133067016757250 0
 97/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/ogv.js1730133067350790543 0
@@ -3287,7 +3287,7 @@
 110/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/csso/node_modules/css-tree/lib/syntax/function1730133067280783565 1
 130/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/cleanupIDs.js1730133067061761735 0
 112/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/permissions-policy.js1730133067353790842 0
-68/home/joan/Documents/daw/diw/projects/blogPersonal/src/css/style.css1731007230936122966 0
+68/home/joan/Documents/daw/diw/projects/blogPersonal/src/css/style.css1731008976640202809 0
 117/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js1730133067244779977 0
 113/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/css-select/node_modules/domutils/lib/esm/feeds.js1730133067000755655 0
 93/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/@parcel/profiler/src/types.js1730133067055761137 0
@@ -4423,7 +4423,7 @@
 84/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/stable/stable.min.js1730133067001755755 0
 104/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/node-gyp-build-optional-packages/LICENSE1730133066968752477 0
 94/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/csso/node_modules/css-tree/lib1730133067281783665 1
-50/home/joan/Documents/daw/diw/projects/blogPersonal1731005347350379065 1
+50/home/joan/Documents/daw/diw/projects/blogPersonal1731007925176074188 1
 109/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/node-gyp-build-optional-packages/package.json1730133067008756452 0
 115/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/caniuse-lite/data/features/credential-management.js1730133067218777385 0
 108/home/joan/Documents/daw/diw/projects/blogPersonal/node_modules/csso/node_modules/css-tree/cjs/syntax/pseudo1730133067182773797 1
