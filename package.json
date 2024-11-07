@@ -2,7 +2,7 @@
   "name": "blogpersonal",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build ./src/index.html",
+    "build": "parcel build path/to/your/entry/src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
